@@ -9,7 +9,6 @@ import {
   getPlatformChartData,
   getGenderChartData,
 } from './helpers';
-import Records from '../Records';
 
 type PieCharData = {
   labels: string[];
